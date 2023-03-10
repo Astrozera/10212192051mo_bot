@@ -47,3 +47,4 @@ client.on(Events.InteractionCreate, async interaction =>{
         await interaction.reply("Houve um error ao executar esse comando!")
     }
 })
+
